@@ -1,0 +1,9 @@
+.stats-company-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 50%;
+    canvas {
+        height: 700px;
+    }
+}
